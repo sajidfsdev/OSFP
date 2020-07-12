@@ -6,9 +6,9 @@ import useStyles from './Cover.styles';
 import NavBar from './../NavBar/NavBar';
 
 //Image Import...
-import CoverImageOne from './../../../Assets/images/cover/Slider/one.jpg';
-import CoverImageTwo from './../../../Assets/images/cover/Slider/two.jpg';
-import CoverImageThree from './../../../Assets/images/cover/Slider/three.jpg';
+import CoverImageOne from './../../../Assets/images/cover/Slider/one-min.jpg';
+import CoverImageTwo from './../../../Assets/images/cover/Slider/two-min.jpg';
+import CoverImageThree from './../../../Assets/images/cover/Slider/three-min.jpg';
 
 //NPM Packages...
 import ReactVisibilitySensor from 'react-visibility-sensor';
